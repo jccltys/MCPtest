@@ -13,7 +13,7 @@ import requests
 import json
 
 # --- 固定配置 ---
-BASE_URL = "https://erp.anspjt.com"
+BASE_URL = "xxx"
 LOGIN_PATH = "/erp/login"
 PRODUCT_LIST_PATH = "/erp/shop/product/list"
 
